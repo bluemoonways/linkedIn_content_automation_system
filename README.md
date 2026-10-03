@@ -24,26 +24,7 @@ The system manages a content queue in Google Sheets, prepares posts with project
 
 ## 🔄 Workflow
 
-```text
-📊 Google Sheets
-      ↓
-🔎 Find Next Unpublished Post
-      ↓
-📝 Prepare Content
-      ├── 🔗 GitHub Link
-      ├── 🌐 Portfolio Link
-      └── 🖼️ Optional Image
-      ↓
-🔐 LinkedIn OAuth 2.0
-      ↓
-🖼️ Upload Image (if available)
-      ↓
-📡 LinkedIn API
-      ↓
-💼 Published LinkedIn Post
-      ↓
-📊 Update Publishing Status
-```
+![LinkedIn Content Automation Workflow](Docs/LinkedIn%20Content%20Automation%20Workflow.png)
 
 ---
 
